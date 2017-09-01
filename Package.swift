@@ -5,4 +5,8 @@ import PackageDescription
 let package = Package(
     name: "CImgSwift",
     pkgConfig: "CImg"
+<<<<<<< HEAD
+=======
+//    providers: [.Brew(["cimg"]), .Apt(["cimg"])]
+>>>>>>> origin/master
 )
