@@ -4,6 +4,5 @@ import PackageDescription
 
 let package = Package(
     name: "CImgSwift",
-    pkgConfig: "CImg",
-    providers: [.brew(["cimg"]), .apt(["cimg"])]
+    pkgConfig: "CImg"
 )
