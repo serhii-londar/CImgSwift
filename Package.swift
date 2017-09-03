@@ -3,5 +3,10 @@
 import PackageDescription
 
 let package = Package(
+<<<<<<< HEAD
     name: "CImgSwift"
+=======
+    name: "CImgSwift",
+    pkgConfig: "CImg"
+>>>>>>> origin/master
 )
