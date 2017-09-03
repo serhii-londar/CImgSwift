@@ -1,5 +1,4 @@
 module CImgSwift [system] {
-  header "shim.h"
-  link "CImgSwift"
+  header "/usr/local/include/CImg.h"
   export *
 }
